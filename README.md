@@ -91,8 +91,8 @@ Result: A living ecosystem that learns, corrects, and scales autonomously.
 ## 📞 Contact
 
 For partnerships, institutional onboarding or seed round participation:
-📬 leandro@agronet.io  
-🌍 www.agronet.io
+📬 admin@agronet.io  
+🌍 agropay.agronet.io
 
 ---
 
