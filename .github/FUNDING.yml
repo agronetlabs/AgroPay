@@ -1,0 +1,16 @@
+# .github/FUNDING.yml
+
+github: [agronetlabs]        # até 4 usernames habilitados no GitHub Sponsors
+patreon: agrocrypto           # username no Patreon
+open_collective: agrocrypto   # nome do coletivo no Open Collective
+ko_fi: agrocrypto             # username no Ko-fi
+tidelift: npm/agropay         # exemplo de pacote mantido no Tidelift
+community_bridge: agrocrypto  # nome do projeto no Community Bridge
+liberapay: agrocrypto         # username no Liberapay
+issuehunt: agrocrypto         # username no IssueHunt
+lfx_crowdfunding: agrocrypto  # nome do projeto no LFX Crowdfunding
+polar: agrocrypto             # username no Polar
+buy_me_a_coffee: agrocrypto   # username no Buy Me a Coffee
+thanks_dev: agrocrypto        # username no Thanks.dev
+custom: ['https://agronet.io', 'https://agrocrypto.io']
+
