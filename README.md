@@ -11,7 +11,7 @@
 ![Deployed](https://img.shields.io/badge/deployed-OpenAI-black)
 
 ---
-# AgroPay Core
+# AgroPay Platform
 # AgroPay & AgroCrypto — Cognitive Infrastructure for ESG Finance and Agricultural Sovereignty 🌱🧠
 
 AgroNet and AgroCrypto form a supranational infrastructure for tokenizing agricultural assets, carbon credits, and ESG metrics — powered natively by Artificial Intelligence.
