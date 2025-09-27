@@ -1,9 +1,6 @@
-# AgroPay Core
-
 [![ATF-AI Verified](https://img.shields.io/badge/ATF--AI-VERIFIED-2ea44f?style=for-the-badge&logo=vercel)](https://github.com/agronetlabs/AgroPay/blob/main/docs/agropay-core-attestation.md)
 [![Provenance Traceable](https://img.shields.io/badge/PROVENANCE-SIGNED-0f9d58?style=for-the-badge&logo=oci)](https://github.com/agronetlabs/AgroPay/blob/main/docs/agropay-core-attestation.md)
 [![Pull Shark](https://img.shields.io/badge/PULL--SHARK-ACTIVE-0066ff?style=for-the-badge&logo=github)](https://github.com/agronetlabs/AgroPay)
-
 
 [![Crates.io](https://img.shields.io/crates/v/agrocrypto-core.svg)](https://crates.io/crates/agrocrypto-core)
 [![License: MIT OR Apache-2.0](https://img.shields.io/crates/l/agrocrypto-core)](https://opensource.org/licenses)
@@ -13,7 +10,8 @@
 ![Deployed](https://img.shields.io/badge/deployed-Cloudflare-orange)
 ![Deployed](https://img.shields.io/badge/deployed-OpenAI-black)
 
-
+---
+# AgroPay Core
 # AgroPay & AgroCrypto — Cognitive Infrastructure for ESG Finance and Agricultural Sovereignty 🌱🧠
 
 AgroNet and AgroCrypto form a supranational infrastructure for tokenizing agricultural assets, carbon credits, and ESG metrics — powered natively by Artificial Intelligence.
